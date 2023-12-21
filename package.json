@@ -4,6 +4,8 @@
   "description": "Repositorio con los retos del AventJS 2023 por Midudev resueltos, con tests y explicacion de cada uno.",
   "main": "index.js",
   "scripts": {
+    "check": "npx @biomejs/biome check --apply ./src",
+    "lint": "npx @biomejs/biome lint ./src",
     "test": "jest"
   },
   "repository": {
