@@ -1,0 +1,26 @@
+{
+  "name": "adventjs-2023",
+  "version": "1.0.0",
+  "description": "Repositorio con los retos del AventJS 2023 por Midudev resueltos, con tests y explicacion de cada uno.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chicho69-cesar/adventJS-2023.git"
+  },
+  "keywords": [
+    "AdventJS"
+  ],
+  "author": "Cesar Villalobos Olmos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chicho69-cesar/adventJS-2023/issues"
+  },
+  "homepage": "https://github.com/chicho69-cesar/adventJS-2023#readme",
+  "dependencies": {
+    "@types/jest": "29.5.11",
+    "jest": "29.7.0"
+  }
+}
